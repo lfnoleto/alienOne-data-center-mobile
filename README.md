@@ -13,7 +13,7 @@
 
 ## Contribuição
 
-Projeto de gereciamento de data cente, utilizado arduino
+Projeto de gerenciamento de data center utilizando arduino.
 
 <!-- LICENSE -->
 
